@@ -1,0 +1,22 @@
+name: env_interpret
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - geopandas
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - jupyter
+  - rasterio
+  - shapely
+  - xarray
+  - rioxarray
+  - tqdm
+  - netcdf4
+  - gdal
+  - libpysal
+  - scikit-image
+prefix: /opt/anaconda3/envs/env_interpret

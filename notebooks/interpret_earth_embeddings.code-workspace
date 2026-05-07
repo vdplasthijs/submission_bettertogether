@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../aether"
+		},
+		{
+			"path": "../../NeurEO"
+		},
+		{
+			"path": "../../PECL"
+		}
+	],
+	"settings": {}
+}
