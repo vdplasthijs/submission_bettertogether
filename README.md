@@ -1,4 +1,4 @@
-# Better Together (for NeurIPS reviewers)
+# Better Together
 
 ## Instructions:
 - All figures and analyses were conducted from the notebooks (which use the modules). See below for details. 
